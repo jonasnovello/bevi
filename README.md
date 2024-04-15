@@ -51,7 +51,7 @@ php artisan db:seed
 Faça o download do Postman nesse link https://www.postman.com/ e faça a instalação dele em seu computador. Caso já tenha ele instalado abra ele para realizar os testes.
 Com o postman aberto clique no botão "Import" e selecione a opção "files", procure pela pasta "Postman" que está dentro da raíz do seu projeto e selecione o arquivo Bevi.postman_collection.json para realizar a importação da collection. Será criado uma collection com o nome "Bevi".
 
-*Verifique se o servidor está em executação, caso não esteja, abra o terminal de comando e vá até a raíz do seu projeto e execute o comando:*
+*Verifique se o servidor está em execução, caso não esteja, abra o terminal de comando e vá até a raíz do seu projeto e execute o comando:*
 
 ```
 php artisan serve
